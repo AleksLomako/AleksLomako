@@ -44,13 +44,19 @@
 
 ###
 
+<h2 align="left">📲 Связаться со мной</h2>
+<a href='https://t.me/sasha_lomako'>
+  <img src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white' alt="telegram">
+</a>
+
+###
+
 <h2 align="left">📊 Статистика GitHub:</h2>
 
 ###
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alekslomako&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-<!--   <img src="https://streak-stats.demolab.com?user=glukosalex&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /> -->
 </div>
 
 
